@@ -9,7 +9,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "intervention/image": "dev-master",
+        "intervention/image": "2.0.12",
         "illuminate/support": "4.2.x"
     },
     "autoload": {
